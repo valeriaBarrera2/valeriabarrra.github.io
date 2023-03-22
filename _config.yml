@@ -1,0 +1,5 @@
+remdote_theme: pages-themes/midnight@v0.2.0
+pluggins:
+  -jelly-remote-theme
+  title : Crcp spring semester 
+description: Repository for the spring semester
